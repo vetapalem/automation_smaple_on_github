@@ -5,7 +5,7 @@ from selenium.webdriver.common import action_chains
 from webdriver_manager.chrome import ChromeDriverManager as ch
 import time as tt
 from code_test_pro import progress_bar as pp
-class mike:
+class mike:  
     __obj1=pp()
     def link(li):
         li.driv=wb.Chrome(service=Service(executable_path=ch().install()))
