@@ -1,6 +1,6 @@
 import time as tt
 from tqdm import tqdm
-class mike:
+class mike: 
     __er=8
     def ____init__(ki):
         ki.ma='mike class'
